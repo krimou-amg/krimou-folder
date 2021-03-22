@@ -45,11 +45,7 @@ nav li{
     width: 200px;
     text-align: center;
 }
-/* nav:hover{
-    animation-name: hh;
-    animation-duration: 1s;
-    animation-iteration-count:inherit;
-} */
+
 nav a:hover{
     background-color: white;
     color: black;
@@ -57,10 +53,7 @@ nav a:hover{
     height: 100%;
 
 }
-/* nav li a:hover{
-    font-size: 20px;
-    color: black; */
-}
+
 main{
     width: 100%;
     height: 1100px;
@@ -150,7 +143,7 @@ div p{
     margin: 20px ;
     width: 30%;
     height: 250px;
-background-color: chartreuse;
+
 display: inline-block;
 flex-wrap: wrap;
 align-content: space-around;
@@ -167,7 +160,7 @@ align-content: space-around;
     margin: 20px ;
     width: 30%;
     height: 250px;
-background-color: chartreuse;
+
 display: inline-block;
 flex-wrap: wrap;
 align-content: space-around;
